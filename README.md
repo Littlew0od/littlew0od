@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome! 🎉 I'm littlew0od!
+I'm littlew0od! 🎉
 
 - 🤔Grad student but useless research direction.
 - 🌱I'm learning Rust and other very fun things.
