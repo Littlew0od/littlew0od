@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome! 🎉 I'm littlew0od!
+
+- 🤔Grad student with useless research direction.
+- 🌱I'm learning Rust and other very fun things.
+- 😄I really love all kinds of infrastructures.
+- ❤️Please contact me if there are any opportunities in AI infrastructure. 
