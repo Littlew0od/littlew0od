@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Welcome! 🎉 I'm littlew0od!
 
-- 🤔Grad student with useless research direction.
+- 🤔Grad student but useless research direction.
 - 🌱I'm learning Rust and other very fun things.
 - 😄I really love all kinds of infrastructures.
 - ❤️Please contact me if there are any opportunities in AI infrastructure. 
